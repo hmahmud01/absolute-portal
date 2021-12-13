@@ -1,0 +1,11 @@
+1. login
+2. register
+3. dashboard(index) for worker and admin
+4. profile
+5. create service
+6. submit service
+7. service detail
+8. worker detail
+9. worker earning
+10. worker service completion
+11. worker badge
